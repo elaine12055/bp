@@ -1,0 +1,15 @@
+{
+  "short_name": "BLINK English",
+  "name": "BLINK English Master",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2907/2907253.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FF69B4",
+  "background_color": "#000000"
+}
